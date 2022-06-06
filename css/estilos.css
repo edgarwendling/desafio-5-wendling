@@ -1,4 +1,4 @@
-html{background-image: url(../images/fondo.de.pantalla.pagina.jpg);
+html{background-image: url(../images/trabajo-en-equipo-5.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -44,21 +44,6 @@ p{
 }
 
 
-.footer{
-    display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
-    gap: 1em;
-    align-items: stretch;
-    color: white;
-
-padding: 0%;
-background-color: black;
-margin: auto;
-overflow: hidden;
-border:inset;
-
-
-}
 
 .formulario{
     width: 800px;
@@ -181,3 +166,15 @@ font-family:audiowide;
       }
       
       .titulo{ text-align: center;}
+
+
+      #img inferior{background-image: url(../images/todos\ para\ uno.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        width: 150px;
+height: 150px;
+
+      }
+
+      
